@@ -4,7 +4,7 @@
 </p>
 
 ## Introduction
-One day, I wonder why tranquil sublimity skin don't have Chinese version (I don't know that have or I blind). So I make a remake (or clone skin if you wish to call that) in Chinese version with my Chinese HSK3 knowledge. This skin made by me 100% (except for sounds & hitsounds, I picked up from tranquil sublimity and cursor from Rafis HDDT skin.)
+One day, I wonder why tranquil sublimity skin don't have Chinese version (I don't know that have or I blind). So I make a remake (or clone skin if you wish to call that) in Chinese version with my Chinese HSK3 knowledge. This skin made by me 100% (except for sounds & hitsounds, I picked up from tranquil sublimity and cursor from Rafis HDDT skin.). All combo colors come from all IZ*ONE promoted album.
 
 <p  align="center"><b>- So I called this "Chinese version of tranquil sublimity".</b></p>
 
