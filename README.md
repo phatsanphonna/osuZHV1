@@ -1,4 +1,4 @@
-# ssuniie
+# ssuniie ZH V1 (ssuniie 中文 V1)
 <p  align="center">
   <img src="https://i.imgur.com/bbwzb8V.png">
 </p>
