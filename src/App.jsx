@@ -14,6 +14,11 @@ const btns = [
         alt: 'GitHub'
     },
     {
+        url: 'https://imgur.com/a/l2q1QCV',
+        src: './images/photo.png',
+        alt: 'Screenshots'
+    },
+    {
         url: 'https://github.com/ssuniie/osuZHV1/releases',
         src: './images/download.png',
         alt: 'Download'
@@ -40,7 +45,7 @@ export default function App() {
 
                 <img src='https://i.imgur.com/ZyHc2bB.png' className='sm:w-3/12 md:w-4/12 lg:w-5/12 shadow-lg rounded-xl' alt='pic1' />
 
-                <div className='btn grid mx-auto grid-cols-3 gap-4'>
+                <div className='btn grid mx-auto grid-cols-2 gap-4'>
                     {btnElements}
                 </div>
                 <div className='works'>
