@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# ssuniie ZH V1 (ssuniie 中文 V1)
+<p  align="center">
+  <img src="https://i.imgur.com/bbwzb8V.png">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+One day, I wonder why tranquil sublimity skin don't have Chinese version (I don't know that have or I blind). So I make a remake (or clone skin if you wish to call that) in Chinese version with my Chinese HSK3 knowledge. This skin made by me 100% (except for sounds & hitsounds, I picked up from tranquil sublimity and cursor from Rafis HDDT skin.). All combo colors come from all IZ*ONE promoted album.
 
-## Available Scripts
+<p  align="center"><b>- So I called this "Chinese version of tranquil sublimity".</b></p>
 
-In the project directory, you can run:
+## Screenshots
+- [Main Menu](https://i.imgur.com/qt3eVUu.png)
+- [Scoreboard](https://i.imgur.com/NIAku9W.png)
+- [Gameplay](https://i.imgur.com/ZyHc2bB.png) (You can customize the name at scorebar, default is Nene's Chinese name(郑乃馨). It's too small)
+- [Spinner](https://i.imgur.com/78l64Ws.png)
+- [Hit score](https://i.imgur.com/3u7FJpu.png) (You can change hit score between Hanzi character and number. (In Extra folder))
+- [Section Pass](https://i.imgur.com/GgJOqen.png)
 
-### `npm start`
+## Download
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- GitHub: [https://github.com/ssuniie/osuZHV1/osu](https://github.com/ssuniie/osuZHV1/osu)
+- GitHub Release Page: [https://github.com/ssuniie/osuZHV1/releases](https://github.com/ssuniie/osuZHV1/releases)
+- Google Drive: [https://bit.ly/3vebHGQg](https://bit.ly/3vebHGQg)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+##### - HDDT version soon.
+##### - Python file is broken right now, don't use it.
+##### - My old osu! username is ssuniie, don't confuse it!
 
-### `npm test`
+<p  align="center"><b><i>Thank you for support, Love you guys! <3<i><b></p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
