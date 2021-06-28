@@ -38,7 +38,7 @@ export default function App() {
                     <h4 className='text-2xl md:text-xl sm:text-lg font-medium shadow-sm'>中文 V1 Skin</h4>
                 </div>
 
-                <img src='./images/preview1.png' className='sm:w-3/12 md:w-4/12 lg:w-5/12 shadow-lg rounded-xl' alt='pic1' />
+                <img src='https://i.imgur.com/ZyHc2bB.png' className='sm:w-3/12 md:w-4/12 lg:w-5/12 shadow-lg rounded-xl' alt='pic1' />
 
                 <div className='btn grid mx-auto grid-cols-3 gap-4'>
                     {btnElements}
