@@ -26,7 +26,6 @@ One day, I wonder why tranquil sublimity skin don't have Chinese version (I don'
 
 - GitHub: [https://github.com/ssuniie/osuZHV1](https://github.com/ssuniie/osuZHV1)
 - GitHub Release Page: [https://github.com/ssuniie/osuZHV1/releases](https://github.com/ssuniie/osuZHV1/releases)
-- Google Drive: [https://bit.ly/3vebHGQg](https://bit.ly/3vebHGQg)
 
 ##### - HDDT version soon.
 ##### - Python file is broken right now, don't use it.
