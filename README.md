@@ -8,6 +8,12 @@ One day, I wonder why tranquil sublimity skin don't have Chinese version (I don'
 
 <p  align="center"><b>- So I called this "Chinese version of tranquil sublimity".</b></p>
 
+## V1.1 Changelog
+- Rearrange the ranking-panel
+- Playfield Border is also available. (In Extra/scorebar_with_border_2px & scorebar_with_border_4px)
+- hit100k with osu! original kanji (Katu: 喝) is set as default hit100k. (hit100k with bai: 百 also available in Extra/hanzi_hit_score/hit100k)
+- Set pause-overlay(pause background) same as fail-background.
+
 ## Screenshots
 - [Main Menu](https://i.imgur.com/qt3eVUu.png)
 - [Scoreboard](https://i.imgur.com/NIAku9W.png)
